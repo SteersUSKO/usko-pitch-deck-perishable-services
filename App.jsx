@@ -361,7 +361,7 @@ function ContactSlide() {
       </div>
       <div className="grid grid-3">
         {[
-          ['phone', 'Contact Us', 'Speak with our sales team member', ['+1 (916) 849-2156']],
+          ['phone', 'Contact Us', 'Speak with our sales team member', ['+1 (916) 201-6582']],
           ['mail', 'Email', 'For RFQ and RFI opportunities email:', ['ron@uskoinc.com']],
           ['map', 'California Office', 'Our headquarters', ['1101 Creekside Ridge Dr Ste 270', 'Roseville, CA 95678']],
         ].map(([icon, title, text, lines]) => (
